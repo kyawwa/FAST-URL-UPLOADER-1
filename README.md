@@ -1,4 +1,4 @@
-## FAST_URL_UPLOADER (Bot)
+  ## FAST_URL_UPLOADER (Bot)
 ---
 
 Telegram RoBot to Upload Links.
@@ -12,6 +12,8 @@ Features:
 👉 Upload Mediafire, Zippyshare, Hxfile, Anonfiles, Antfiles URL using LK21
 
 For Devs:
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/kyawwa/FAST-URL-UPLOADER-1"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
 
 👉 [FAST_URL_UPLOADER](https://github.com/EHDTUBE75/FAST_URL_UPLOADER)
 
